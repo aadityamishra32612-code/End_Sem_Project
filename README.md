@@ -20,14 +20,14 @@ To design and implement a lightweight text editor in C that supports essential f
 ---
 
 ##  Features
-✔ Open/Load a text file  
-✔ Display file contents with line numbers  
-✔ Insert a new line at any position  
-✔ Delete a line from the file  
-✔ Save the edited content to a file  
-✔ Dynamic memory allocation using `malloc`, `realloc`, and `free`  
-✔ Full pointer-based text buffer management  
-✔ Clean and modular code structure  
+* Open/Load a text file  
+* Display file contents with line numbers  
+* Insert a new line at any position  
+* Delete a line from the file  
+* Save the edited content to a file  
+* Dynamic memory allocation using `malloc`, `realloc`, and `free`  
+* Full pointer-based text buffer management  
+* Clean and modular code structure  
 
 ---
 
